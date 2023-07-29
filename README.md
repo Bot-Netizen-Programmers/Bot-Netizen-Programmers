@@ -24,6 +24,9 @@
 
 ## Some Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bot-Netizen-Programmers&repo=new-website)](https://github.com/Bot-Netizen-Programmers/new-website)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bot-Netizen-Programmers&repo=new-website)](https://github.com/Bot-Netizen-Programmers/new-website)
+![](https://github-readme-stats.vercel.app/api?username=Bot-Netizen-Programmers&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bot-Netizen-Programmers&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bot-Netizen-Programmers&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bot-netizen-programmers)
