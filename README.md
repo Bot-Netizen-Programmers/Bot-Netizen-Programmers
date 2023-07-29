@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, C, C++, Python**
 
-- Most used command **git commit -m "Initial Commit"**
+- ⌨️ Most used command **git commit -m "Initial Commit"**
 
-- 📫 How to reach me **saimonghosh088@gmail.com**
+- 📫 Contact me on **saimonghosh088@gmail.com**
 
 <!-- Profile Views -->
 
